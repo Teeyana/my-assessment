@@ -13,7 +13,7 @@
     "next": "15.1.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-paystack": "^6.0.0"
+    "react-paystack": "^4.0.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
