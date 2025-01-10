@@ -181,7 +181,7 @@
   text-transform: uppercase;
   background-color: #bfbfbf;
   font-weight: bold;
-  color: green;
+  color: #000;
   border: none;
   border-radius: 5px;
   width: 100%;
@@ -190,7 +190,7 @@
 }
 
 footer{
-    background-color: #000000;
+    background-color: #000;
     text-align: center;
     margin: 0;
     
